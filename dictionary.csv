@@ -1,0 +1,59 @@
+Coluna,Descrição
+cidade,Nome da cidade
+país,Nome do país
+x1,"Refeição, restaurante barato (USD)"
+x2,"Refeição para 2 Pessoas, Restaurante Médio, Três Pratos (USD)"
+x3,McMeal no McDonalds (ou Combo Refeição Equivalente) (USD)
+x4,"Cerveja Nacional (0,5 litro de chope, em restaurantes) (USD)"
+x5,"Cerveja Importada (garrafa de 0,33 litro, em restaurantes) (USD)"
+x6,"Cappuccino (normal, em restaurantes) (USD)"
+x7,"Coca-Cola/Pepsi (garrafa de 0,33 litro, em restaurantes) (USD)"
+x8,"Água (garrafa de 0,33 litros, em restaurantes) (USD)"
+x9,"Leite (comum), (1 litro) (USD)"
+x10,Pão Branco Fresco (500g) (USD)
+x11,"Arroz (branco), (1kg) (USD)"
+x12,Ovos (comuns) (12) (USD)
+x13,Queijo Nacional (1kg) (USD)
+x14,Filetes de Frango (1kg) (USD)
+x15,Carne Redonda (1kg) (ou Carne Vermelha Equivalente da Perna Traseira) (USD)
+x16,Maçãs (1kg) (USD)
+x17,Banana (1kg) (USD)
+x18,Laranjas (1kg) (USD)
+x19,Tomate (1kg) (USD)
+x20,Batata (1kg) (USD)
+x21,Cebola (1kg) (USD)
+x22,Alface (1 cabeça) (USD)
+x23,"Água (garrafa de 1,5 litro, no mercado) (USD)"
+x24,"Garrafa de Vinho (Média, no mercado) (USD)"
+x25,"Cerveja Nacional (garrafa de 0,5 litro, no mercado) (USD)"
+x26,"Cerveja Importada (garrafa de 0,33 litro, no mercado) (USD)"
+x27,Pacote de 20 cigarros (Marlboro) (USD)
+x28,Bilhete de ida (transporte local) (USD)
+x29,Passe mensal (preço normal) (USD)
+x30,Taxi Start (tarifa normal) (USD)
+x31,Táxi 1km (Tarifa Normal) (USD)
+x32,Táxi 1 hora de espera (tarifa normal) (USD)
+x33,Gasolina (1 litro) (USD)
+x34,Volkswagen Golf 1.4 90 KW Trendline (ou carro novo equivalente) (USD)
+x35,Toyota Corolla Sedan 1.6l 97kW Comfort (ou carro novo equivalente) (USD)
+x36,"Básico (Eletricidade, Aquecimento, Arrefecimento, Água, Lixo) para Apartamento de 85m2 (USD)"
+x37,1 minuto. de Tarifa Móvel Pré-pago Local (Sem Descontos ou Planos) (USD)
+x38,"Internet (60 Mbps ou mais, dados ilimitados, cabo/ADSL) (USD)"
+x39,"Fitness Club, mensalidade para 1 adulto (USD)"
+x40,Aluguel de quadra de tênis (1 hora no fim de semana) (USD)
+x41,"Cinema, Lançamento Internacional, 1 Lugar (USD)"
+x42,"Pré-escola (ou jardim de infância), dia inteiro, particular, mensal para 1 criança (USD)"
+x43,"Escola primária internacional, anual para 1 criança (USD)"
+x44,1 par de jeans (Levis 501 ou similar) (USD)
+x45,"1 Vestido de Verão numa Rede de Lojas (Zara, H&M, …) (USD)"
+x46,1 par de tênis de corrida Nike (gama média) (USD)
+x47,1 par de sapatos masculinos de negócios em couro (USD)
+x48,Apartamento (1 quarto) no centro da cidade (USD)
+x49,Apartamento (1 quarto) Fora do Centro (USD)
+x50,Apartamento (3 quartos) no centro da cidade (USD)
+x51,Apartamento (3 quartos) Fora do Centro (USD)
+x52,Preço por metro quadrado para comprar apartamento no centro da cidade (USD)
+x53,Preço por metro quadrado para comprar apartamento fora do centro (USD)
+x54,Salário Líquido Médio Mensal (Após Impostos) (USD)
+x55,"Taxa de Juros de Hipoteca em Percentuais (%), Anual, por 20 Anos Taxa Fixa"
+data_quality,"0 se a Numbeo considerar que são necessários mais contribuidores para aumentar a qualidade dos dados, senão 1"
